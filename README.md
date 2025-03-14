@@ -169,9 +169,10 @@ Feel free to reach out with questions or suggestions through our GitHub Issues o
 
 Happy coding!
 
+***
 <br>
-***
-***
+
+
 <br>
 
 # OmniTemplate
